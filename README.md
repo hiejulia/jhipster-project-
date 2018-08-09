@@ -16,6 +16,12 @@ JHipster project - Microservices architecture
 + Heroku cloud 
 
 ### Microservice architecture 
++ Service registry 
++ Service discovery 
++ Health check 
++ Dynamic routing and resiliency 
++ Security 
++ Failover
 
 
 
